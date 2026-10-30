@@ -22,10 +22,6 @@ Information Technology graduate passionate about building responsive web applica
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-### 🚀 Featured Projects
-
-
 ### 🚀 Featured Projects
 
 **1. [Whisper Heart – Online Library](https://github.com/hadeel303elmutasim/whisper-heart-store)**
