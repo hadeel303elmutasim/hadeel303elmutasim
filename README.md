@@ -25,11 +25,23 @@ Information Technology graduate passionate about building responsive web applica
 
 ### 🚀 Featured Projects
 
-- [Whisper Heart – Online Library](https://github.com/hadeel303elmutasim/whisper-heart-store)
-- [Manga Store Template](https://github.com/hadeel303elmutasim/manga-store-template)
-- [Noodles Restaurant Website](https://github.com/hadeel303elmutasim/noodles_tailwind)
-- [User Management API](https://github.com/hadeel303elmutasim/user-management-api)
-- [Weather Forecast API](https://github.com/hadeel303elmutasim/Forecast_api)
+
+### 🚀 Featured Projects
+
+**1. [Whisper Heart – Online Library](https://github.com/hadeel303elmutasim/whisper-heart-store)**
+An online library project showcasing frontend development and website design.
+
+**2. [Manga Store Template](https://github.com/hadeel303elmutasim/manga-store-template)**
+An e-commerce website template for browsing and presenting products.
+
+**3. [Noodles Restaurant Website](https://github.com/hadeel303elmutasim/noodles_tailwind)**
+A responsive restaurant website built with Tailwind CSS.
+
+**4. [User Management API](https://github.com/hadeel303elmutasim/user-management-api)**
+A backend project using Node.js, Express, and MongoDB.
+
+**5. [Weather Forecast API](https://github.com/hadeel303elmutasim/Forecast_api)**
+An API project demonstrating backend development.
 
 ### 📫 Connect With Me
 
